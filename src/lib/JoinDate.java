@@ -14,4 +14,12 @@ public class JoinDate {
     public int getYear() {
         return year;
     }
+
+    public int getMonth() {
+        return month;
+    }
+
+    public int getDay() {
+        return day;
+    }
 }

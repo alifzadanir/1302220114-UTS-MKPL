@@ -2,7 +2,7 @@
 
 package lib;
 
-public class FamilyData{
+public class FamilyData {
     private int numberOfChildren;
     private String spouseName;
 
@@ -14,9 +14,10 @@ public class FamilyData{
     public int getNumberOfChildren() {
         return numberOfChildren;
     }
+
     public String getSpouseName() {
         return spouseName;
     }
-
 }
+
 
